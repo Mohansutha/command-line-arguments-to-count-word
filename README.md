@@ -20,8 +20,8 @@ Run the program.
 ## PROGRAM:
 ~~~
 #Program to command line arguments to count word.
-#Developed by: Ragul AC
-#Register number: 212221240042
+#Developed by: Mohan Raj
+#Register number: 21500140
 import sys
 fp =open(sys.argv[1])
 data=fp.read()
